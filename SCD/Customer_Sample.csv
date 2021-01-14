@@ -1,0 +1,26 @@
+CustomerID,Customer Name,CustomerType_ID,custTypename,Address,City,State,Zip,Div
+0,Specialty Teleconstructors Incoporated.,S,State/Local Gov,1570 Hordes Drive,Columbia,SC,29260,TPCE
+1,Beverly Equipment,E,Education,7581 Quisque Street,Bloomington,HI,88440,TPCW
+1,Haynes,C,Commercial,2920 Auctor Road,Moraga,AZ,70314,PEC
+1,Room Plus Incoporated.,S,State/Local Gov,Suite 836;  6037 Ecuadorian Street,Clinton,MI,49236,TPCE
+2,Clio-Hutchinson,E,Education,1257 Ac Avenue,Butler,SC,82126,TPCW
+2,Motts Holdings Incoporated.,S,State/Local Gov,1618 Greenland Street,Tallahassee,FL,32304,TPCE
+2,Rudyard-Knapp,C,Commercial,9261 Nulla Street,Sault Ste. Marie,LA,94298,PEC
+3,Baxter May,E,Education,796-2366 Vel Avenue,Meriden,FL,58328,PEC
+3,Beckman Coulter Incoporated.,C,Commercial,5841 Pervades Drive,Fairfax,VA,22035,TPCE
+3,YuliChem,E,Education,6440 Amet Street,Laguna Woods,KY,53141,TPCW
+4,Austin Burns,F,US Govt,2041 Venenatis Avenue,Alexandria,DC,34440,TPCW
+4,Magainin Pharmaceuticals Incoporated.,S,State/Local Gov,Dept #332;  9138 Planetesimal Lane,Twining,MI,48766,TPCE
+4,Maya Brewer,E,Education,PO Box 825;  6836 At Road,Union City,ND,82051,PEC
+5,Mullins Incoporated.,F,US Govt,4009 Ornare Road,Birmingham,NE,59509,PEC
+5,Saint Andrews Golf Corporation,E,Education,8068 Substances Street,North Miami,FL,33261,TPCW
+5,Sterling Financial Corporation Washington,C,Commercial,Dept #505;  7258 Meriting Avenue,Portland,OR,97201,TPCE
+6,Austin Ferrell,S,State/Local Gov,8666 Justo Road,Pullman,PA,55979,TPCW
+6,Fidelity National Corporation Ga,C,Commercial,Dept #915;  11455 Sheaf Drive,Anthony,FL,32617,TPCE
+6,Raphael Allison,E,Education,734-2598 Sed Avenue,La Crosse,HI,58702,PEC
+7,Fedders Corporation,C,Commercial,Dept #520;  3311 Blatantly Circle,Santa Fe Springs,CA,90670,TPCE
+7,Hop Adams,E,Education,704 Nisl Road,Sun Valley,NH,84458,TPCW
+7,Martin Donaldson,F,US Govt,2704 At Road,Gardner,GA,31421,PEC
+8,Gemma Castro,S,State/Local Gov,9101 Duis Street,Passaic,VT,40926,PEC
+8,Mullins Incoporated.,E,Education,4009 Ornare Road,Birmingham,NE,59509,TPCW
+8,United Healthcare Corporation,C,Commercial,Dept #855;  675 Hordes Turnpike,Malaga,NM,88263,TPCE

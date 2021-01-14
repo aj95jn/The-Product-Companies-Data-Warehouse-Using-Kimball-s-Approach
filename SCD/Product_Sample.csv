@@ -1,0 +1,31 @@
+Product_ID,Business Name,Business Abbrev,Product TypeDesc,Product Description,Price1,Price2,UnitCost,Div,Discounted
+1,Processing Equipment,Equipment,Polishing Equipment and tools,Enumerator Polisher,165,143,135,TPCE,0
+1,Processing Equipment,Equipment,Polishing Equipment and tools,Enumerator Polisher,165,143,135,TPCW,0
+1,Processing Equipment,Equipment,Polishing Equipment and tools,Enumerator Polisher,165,143,120,PEC,0
+2,Processing Equipment,Equipment,Manufacturing Equipments,Manufacturing Equipment,347,307,250,PEC,0
+2,Miscellaneous,Misc,Standard Jacks,Tailor Equipment,510,430,400,TPCE,0
+2,Miscellaneous,Misc,Standard Jacks,Tailor Equipment,510,430,400,TPCW,0
+3,Miscellaneous,Misc,Cover Equipments,Sortie Covers & blinds,248,213,207,TPCE,0
+3,Miscellaneous,Misc,Cover Equipments,Sortie Covers & blinds,248,213,207,TPCW,0
+3,Miscellaneous,Misc,Standard Jacks,Tailor Equipment,510,430,400,PEC,0
+4,Disposable Supplies,Supplies,Cleaning Utilities,Embodying Cleaning Goods & Supplies,251,214,207,TPCE,0
+4,Disposable Supplies,Supplies,Cleaning Utilities,Embodying Cleaning Goods & Supplies,251,214,207,TPCW,0
+4,Processing Equipment,Equipment,Manufacturing Equipments,Shrinking Manufacturing Equipment,456,380,325,PEC,0
+5,Miscellaneous,Misc,Filler tools,Automobiles Filters,284,228,219,TPCE,0
+5,Miscellaneous,Misc,Filler tools,Automobiles Filters,284,228,219,TPCW,0
+5,Processing Equipment,Equipment,Photo/Graphics Equipment,Imaging Equipment,232,204,170,PEC,0
+6,Processing Equipment,Equipment,Polishing Equipment and tools,Denigrating Polisher,566,454,402,PEC,0
+6,Processing Equipment,Equipment,Manufacturing Equipments,Manufacturing Equipment,347,307,286,TPCE,0
+6,Processing Equipment,Equipment,Manufacturing Equipments,Manufacturing Equipment,347,307,286,TPCW,0
+7,Processing Equipment,Equipment,Manufacturing Equipments,Banding Manufacturing Equipment,298,267,234,PEC,0
+7,Miscellaneous,Misc,Filler tools,Commendation Filters,436,380,365,TPCE,0
+7,Miscellaneous,Misc,Filler tools,Commendation Filters,436,380,365,TPCW,0
+8,Processing Equipment,Equipment,Polishing Equipment and tools,Chalmers Polisher,289,243,215,PEC,0
+8,Processing Equipment,Equipment,Manufacturing Equipments,November Manufacturing Equipment,584,523,518,TPCE,0
+8,Processing Equipment,Equipment,Manufacturing Equipments,November Manufacturing Equipment,584,523,518,TPCW,0
+9,Disposable Supplies,Supplies,Trays,Winner Tray Supplies,560,477,448,PEC,0
+10,Chemicals           ,Chemicals,Photo Supplies and Chemicals,Chartable Photo Equipment            ,410.17,347.41,295,PEC,0
+11,Processing Equipment,Equipment,Manufacturing Equipments,Sailors Manufacturing Equipment      ,340.48,290.43,235,PEC,0
+12,Processing Equipment,Equipment,Photo/Graphics Equipment,Chromium Photo Equipment             ,565.5,457.49,326,PEC,0
+13,Miscellaneous       ,Misc,Cover Equipments,Coward Covers                        ,429.79,348.99,328.05,PEC,0
+14,Chemicals           ,Chemicals,Photo Supplies and Chemicals,Travelings Photo Chemicals           ,274.39,242.01,225.07,PEC,0
